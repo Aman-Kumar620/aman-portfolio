@@ -238,7 +238,7 @@ export default function Home() {
 
               <div className="flex flex-wrap gap-4 pt-2">
                 <a 
-                  href="/images/certificates/Aman_Kumar_CV.pdf" 
+                  href="/images/certificates/Aman_kumar_CV.pdf" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="bg-[#00a2ff] hover:bg-sky-600 text-white font-semibold text-sm px-7 py-3 rounded-md transition-all shadow-md inline-flex items-center"
